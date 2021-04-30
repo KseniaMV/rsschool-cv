@@ -1,5 +1,7 @@
 # Vasiukhnova Kseniia
 ## frontend-developer
+
+![my foto](./myPhoto.png)
 ---
 ### contacts
 + marks-83@mail.ru
